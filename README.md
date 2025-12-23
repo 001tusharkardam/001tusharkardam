@@ -1,8 +1,3 @@
-## Hi there 👋
-# 💫 About Me:
-🔭 I’m currently working on<br>Full-stack web development projects using MERN stack, along with strengthening my problem-solving skills in Data Structures & Algorithms (Java).<br><br>👯 I’m looking to collaborate on<br>Open-source projects, full-stack web apps, Java-based projects, and beginner-friendly system design or API projects.<br><br>🤝 I’m looking for help with<br>Advanced backend architecture, system design concepts, cloud deployment best practices, and performance optimization.<br><br>🌱 I’m currently learning<br>Advanced DSA in Java, Backend Development (Node.js, Express), Cloud Computing (AWS basics), and scalable web application design.<br><br>💬 Ask me about<br>Java, DSA, OOPs, Full-Stack Web Development, Git & GitHub, REST APIs, MongoDB, SQL, and project structuring.<br><br>⚡ Fun fact<br>I enjoy converting real-world problems into code and love building projects inspired by real products like Airbnb.<br>
-
-
 ## 🌐 Socials:
 [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@TUSHAR KARDAM) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tusharkkardam711@gmail.com) 
 
